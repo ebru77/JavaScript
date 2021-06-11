@@ -70,6 +70,3 @@ console.log(zamliMaas);*/
 const borc = 0;
 const maas = 3000;
 console.log(!borc && maas>2825.9 ? "Kredi alabilir 🤑 " : "Kredi alamaz 🥺");
-
-
-
